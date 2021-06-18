@@ -87,7 +87,7 @@ The people demand better
 
 # The LiveView Promise
 
-Get blackout drunk with no chaser.
+Get blackout drunk with no hangover.
 
 ---
 
