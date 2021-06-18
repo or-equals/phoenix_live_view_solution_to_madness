@@ -36,7 +36,7 @@ A Solution to Madness - Joshua Plicque
 -->
 ---
 
-![bg](https://github.com/or-equals/phoenix_live_view_solution_to_madness/blob/master/or_equals.png)
+![bg](or_equals.png)
 
 <br>
 <br>
@@ -58,22 +58,22 @@ Chris McCord
 
 ---
 
-![](https://github.com/or-equals/phoenix_live_view_solution_to_madness/blob/master/multi_page.png)
+![](multi_page.png)
 
 ---
 
-![bg](https://github.com/or-equals/phoenix_live_view_solution_to_madness/blob/master/coding_horror.png)
+![bg](coding_horror.png)
 
 ---
 
-![bg](https://github.com/or-equals/phoenix_live_view_solution_to_madness/blob/master/single_page_app.png)
+![bg](single_page_app.png)
 
 ---
 
-![bg contain](https://github.com/or-equals/phoenix_live_view_solution_to_madness/blob/master/reddit.png)
-![bg contain](https://github.com/or-equals/phoenix_live_view_solution_to_madness/blob/master/twitter.png)
-![bg contain](https://github.com/or-equals/phoenix_live_view_solution_to_madness/blob/master/linkedin.png)
-![bg contain](https://github.com/or-equals/phoenix_live_view_solution_to_madness/blob/master/facebook.png)
+![bg contain](reddit.png)
+![bg contain](twitter.png)
+![bg contain](linkedin.png)
+![bg contain](facebook.png)
 
 ---
 
@@ -81,7 +81,7 @@ The people demand better
 
 ---
 
-![](https://github.com/or-equals/phoenix_live_view_solution_to_madness/blob/master/liveview.png)
+![](liveview.png)
 
 ---
 
@@ -91,15 +91,15 @@ Get blackout drunk with no hangover.
 
 ---
 
-![](https://github.com/or-equals/phoenix_live_view_solution_to_madness/blob/master/rails_blog_in_15_minutes.png)
+![](rails_blog_in_15_minutes.png)
 
 ---
 
-![](https://github.com/or-equals/phoenix_live_view_solution_to_madness/blob/master/ryan_dahl.png)
+![](ryan_dahl.png)
 
 ---
 
-![](https://github.com/or-equals/phoenix_live_view_solution_to_madness/blob/master/twitter_in_15_minutes.png)
+![](twitter_in_15_minutes.png)
 
 ---
 
@@ -108,11 +108,11 @@ Get blackout drunk with no hangover.
 
 ---
 
-![](https://github.com/or-equals/phoenix_live_view_solution_to_madness/blob/master/liveview_announcement.png)
+![](liveview_announcement.png)
 
 ---
 
-![](https://github.com/or-equals/phoenix_live_view_solution_to_madness/blob/master/liveview.png)
+![](liveview.png)
 
 ---
 
@@ -120,7 +120,7 @@ Get blackout drunk with no hangover.
 
 ---
 
-![](https://github.com/or-equals/phoenix_live_view_solution_to_madness/blob/master/spa.png)
+![](spa.png)
 
 ---
 
@@ -157,7 +157,7 @@ Contacts feature
 
 # Thinking in LiveView
 
-![](https://github.com/or-equals/phoenix_live_view_solution_to_madness/blob/master/building_features.png)
+![](building_features.png)
 
 ---
 
@@ -214,7 +214,7 @@ You can leverage Phoenix's Context layer standard architecture to quickly bolt o
 
 ---
 
-![bg contain](https://github.com/or-equals/phoenix_live_view_solution_to_madness/blob/master/contexts.png)
+![bg contain](contexts.png)
 
 ---
 
